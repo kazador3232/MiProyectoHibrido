@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Proyecto Hibrido</string>
+    <string name="title_activity_pantalla1">Pantalla1Activity</string>
+    <string name="calcular">Calcular</string>
+    <string name="calcular_sueldo_de_empleado_regular">Calcular Sueldo de Empleado Regular</string>
+    <string name="lt_volver"><![CDATA[< Volver]]></string>
+</resources>
